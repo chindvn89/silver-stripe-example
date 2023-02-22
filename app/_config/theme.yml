@@ -3,6 +3,6 @@ Name: mytheme
 ---
 SilverStripe\View\SSViewer:
   themes:
+    - 'my_theme'
     - '$public'
-    - 'simple'
     - '$default'
